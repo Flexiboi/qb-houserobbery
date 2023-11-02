@@ -62,7 +62,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -73,7 +73,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -84,7 +84,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -95,7 +95,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -106,7 +106,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -117,7 +117,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -128,7 +128,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -139,7 +139,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -150,7 +150,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -161,7 +161,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -172,7 +172,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -183,7 +183,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -207,7 +207,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -218,7 +218,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -229,7 +229,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -240,7 +240,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -251,7 +251,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -262,7 +262,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -273,7 +273,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -284,7 +284,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -295,7 +295,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -306,7 +306,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -317,7 +317,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -328,7 +328,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -352,7 +352,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -363,7 +363,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -374,7 +374,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -385,7 +385,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -396,7 +396,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -407,7 +407,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -418,7 +418,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -429,7 +429,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -440,7 +440,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -451,7 +451,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -462,7 +462,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -473,7 +473,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -497,7 +497,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -508,7 +508,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -519,7 +519,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -530,7 +530,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -541,7 +541,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -552,7 +552,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -563,7 +563,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -574,7 +574,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -585,7 +585,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -596,7 +596,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -607,7 +607,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -618,7 +618,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -642,7 +642,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -653,7 +653,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -664,7 +664,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -675,7 +675,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -686,7 +686,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -697,7 +697,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -708,7 +708,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -719,7 +719,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -730,7 +730,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -741,7 +741,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -752,7 +752,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -763,7 +763,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -787,7 +787,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -798,7 +798,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -809,7 +809,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -820,7 +820,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -831,7 +831,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -842,7 +842,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -853,7 +853,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -864,7 +864,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -875,7 +875,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -886,7 +886,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -897,7 +897,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -908,7 +908,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -932,7 +932,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -943,7 +943,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -954,7 +954,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -965,7 +965,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -976,7 +976,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -987,7 +987,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -998,7 +998,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1009,7 +1009,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1020,7 +1020,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1031,7 +1031,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1042,7 +1042,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1053,7 +1053,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1077,7 +1077,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1088,7 +1088,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1099,7 +1099,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1110,7 +1110,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1121,7 +1121,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1132,7 +1132,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1143,7 +1143,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1154,7 +1154,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1165,7 +1165,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1176,7 +1176,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1187,7 +1187,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1198,7 +1198,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1222,7 +1222,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1233,7 +1233,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1244,7 +1244,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1255,7 +1255,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1266,7 +1266,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1277,7 +1277,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1288,7 +1288,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1299,7 +1299,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1310,7 +1310,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1321,7 +1321,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1332,7 +1332,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1343,7 +1343,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1367,7 +1367,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1378,7 +1378,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1389,7 +1389,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1400,7 +1400,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1411,7 +1411,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1422,7 +1422,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1433,7 +1433,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1444,7 +1444,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1455,7 +1455,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1466,7 +1466,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1477,7 +1477,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1488,7 +1488,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1512,7 +1512,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1523,7 +1523,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1534,7 +1534,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1545,7 +1545,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1556,7 +1556,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1567,7 +1567,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1578,7 +1578,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1589,7 +1589,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1600,7 +1600,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1611,7 +1611,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1622,7 +1622,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1633,7 +1633,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1657,7 +1657,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1668,7 +1668,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1679,7 +1679,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1690,7 +1690,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1701,7 +1701,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1712,7 +1712,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1723,7 +1723,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1734,7 +1734,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1745,7 +1745,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1756,7 +1756,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1767,7 +1767,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1778,7 +1778,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1802,7 +1802,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1813,7 +1813,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1824,7 +1824,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1835,7 +1835,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1846,7 +1846,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -1857,7 +1857,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -1868,7 +1868,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -1879,7 +1879,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -1890,7 +1890,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -1901,7 +1901,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -1912,7 +1912,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -1923,7 +1923,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -1947,7 +1947,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -1958,7 +1958,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -1969,7 +1969,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -1980,7 +1980,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -1991,7 +1991,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2002,7 +2002,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2013,7 +2013,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2024,7 +2024,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2035,7 +2035,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2046,7 +2046,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2057,7 +2057,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2068,7 +2068,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2092,7 +2092,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2103,7 +2103,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2114,7 +2114,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2125,7 +2125,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2136,7 +2136,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2147,7 +2147,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2158,7 +2158,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2169,7 +2169,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2180,7 +2180,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2191,7 +2191,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2202,7 +2202,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2213,7 +2213,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2237,7 +2237,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2248,7 +2248,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2259,7 +2259,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2270,7 +2270,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2281,7 +2281,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2292,7 +2292,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2303,7 +2303,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2314,7 +2314,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2325,7 +2325,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2336,7 +2336,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2347,7 +2347,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2358,7 +2358,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2382,7 +2382,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2393,7 +2393,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2404,7 +2404,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2415,7 +2415,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2426,7 +2426,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2437,7 +2437,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2448,7 +2448,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2459,7 +2459,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2470,7 +2470,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2481,7 +2481,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2492,7 +2492,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2503,7 +2503,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2527,7 +2527,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2538,7 +2538,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2549,7 +2549,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2560,7 +2560,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2571,7 +2571,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2582,7 +2582,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2593,7 +2593,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2604,7 +2604,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2615,7 +2615,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2626,7 +2626,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2637,7 +2637,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2648,7 +2648,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2672,7 +2672,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2683,7 +2683,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2694,7 +2694,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2705,7 +2705,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2716,7 +2716,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2727,7 +2727,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2738,7 +2738,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2749,7 +2749,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2760,7 +2760,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2771,7 +2771,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2782,7 +2782,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2793,7 +2793,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2817,7 +2817,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2828,7 +2828,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2839,7 +2839,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2850,7 +2850,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -2861,7 +2861,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -2872,7 +2872,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -2883,7 +2883,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -2894,7 +2894,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -2905,7 +2905,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -2916,7 +2916,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -2927,7 +2927,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -2938,7 +2938,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -2962,7 +2962,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -2973,7 +2973,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -2984,7 +2984,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -2995,7 +2995,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3006,7 +3006,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3017,7 +3017,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3028,7 +3028,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3039,7 +3039,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3050,7 +3050,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3061,7 +3061,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3072,7 +3072,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3083,7 +3083,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3107,7 +3107,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3118,7 +3118,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3129,7 +3129,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3140,7 +3140,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3151,7 +3151,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3162,7 +3162,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3173,7 +3173,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3184,7 +3184,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3195,7 +3195,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3206,7 +3206,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3217,7 +3217,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3228,7 +3228,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3252,7 +3252,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3263,7 +3263,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3274,7 +3274,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3285,7 +3285,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3296,7 +3296,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3307,7 +3307,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3318,7 +3318,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3329,7 +3329,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3340,7 +3340,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3351,7 +3351,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3362,7 +3362,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3373,7 +3373,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3397,7 +3397,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3408,7 +3408,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3419,7 +3419,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3430,7 +3430,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3441,7 +3441,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3452,7 +3452,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3463,7 +3463,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3474,7 +3474,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3485,7 +3485,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3496,7 +3496,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3507,7 +3507,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3518,7 +3518,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3542,7 +3542,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3553,7 +3553,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3564,7 +3564,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3575,7 +3575,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3586,7 +3586,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3597,7 +3597,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3608,7 +3608,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3619,7 +3619,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3630,7 +3630,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3641,7 +3641,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3652,7 +3652,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3663,7 +3663,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3687,7 +3687,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3698,7 +3698,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3709,7 +3709,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3720,7 +3720,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3731,7 +3731,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3742,7 +3742,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3753,7 +3753,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3764,7 +3764,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3775,7 +3775,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3786,7 +3786,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3797,7 +3797,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3808,7 +3808,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3832,7 +3832,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3843,7 +3843,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3854,7 +3854,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -3865,7 +3865,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -3876,7 +3876,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -3887,7 +3887,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -3898,7 +3898,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -3909,7 +3909,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -3920,7 +3920,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -3931,7 +3931,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -3942,7 +3942,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -3953,7 +3953,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -3977,7 +3977,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -3988,7 +3988,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -3999,7 +3999,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -4010,7 +4010,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4021,7 +4021,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4032,7 +4032,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -4043,7 +4043,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -4054,7 +4054,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -4065,7 +4065,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -4076,7 +4076,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -4087,7 +4087,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -4098,7 +4098,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -4122,7 +4122,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek nachtkaske"
+                ["text"] = "Search Nightstand"
             },
             [2] = {
                 ["type"] = "cabin",
@@ -4133,7 +4133,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "kitchen",
@@ -4144,7 +4144,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske van de gang"
+                ["text"] = "Search Cabinet"
             },
             [4] = {
                 ["type"] = "chest",
@@ -4155,7 +4155,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kist"
+                ["text"] = "Search Chest"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4166,7 +4166,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek lade"
+                ["text"] = "Search Drawer"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4177,7 +4177,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [7] = {
                 ["type"] = "livingroom",
@@ -4188,7 +4188,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
             [8] = {
                 ["type"] = "livingroom",
@@ -4199,7 +4199,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek eetkamerkast"
+                ["text"] = "Search Dining Cabinet"
             },
             [9] = {
                 ["type"] = "kitchen",
@@ -4210,7 +4210,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [10] = {
                 ["type"] = "kitchen",
@@ -4221,7 +4221,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek keukenkast"
+                ["text"] = "Search Kitchen Cabinet"
             },
             [11] = {
                 ["type"] = "kitchen",
@@ -4232,7 +4232,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek Koelkast"
+                ["text"] = "Search Fridge"
             },
             [12] = {
                 ["type"] = "cabin",
@@ -4243,7 +4243,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kaske"
+                ["text"] = "Search Cabinet"
             },
         }
     },
@@ -4289,7 +4289,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -4300,7 +4300,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -4311,7 +4311,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4322,7 +4322,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4445,7 +4445,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -4456,7 +4456,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -4467,7 +4467,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4478,7 +4478,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4601,7 +4601,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -4612,7 +4612,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -4623,7 +4623,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4634,7 +4634,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4757,7 +4757,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -4768,7 +4768,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -4779,7 +4779,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4790,7 +4790,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -4913,7 +4913,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -4924,7 +4924,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -4935,7 +4935,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -4946,7 +4946,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5069,7 +5069,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5080,7 +5080,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5091,7 +5091,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5102,7 +5102,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5225,7 +5225,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5236,7 +5236,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5247,7 +5247,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5258,7 +5258,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5381,7 +5381,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5392,7 +5392,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5403,7 +5403,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5414,7 +5414,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5537,7 +5537,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5548,7 +5548,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5559,7 +5559,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5570,7 +5570,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5693,7 +5693,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5704,7 +5704,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5715,7 +5715,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5726,7 +5726,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -5849,7 +5849,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -5860,7 +5860,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -5871,7 +5871,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -5882,7 +5882,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6005,7 +6005,7 @@ Config.Houses = {
     --             ["spawned"] = false,
     --             ["searched"] = false,
     --             ["isBusy"] = false,
-    --             ["text"] = "Doorzoek kleerkast"
+    --             ["text"] = "Search Clothing Cabinet"
     --         },
     --         [3] = {
     --             ["type"] = "cabin",
@@ -6016,7 +6016,7 @@ Config.Houses = {
     --             ["spawned"] = false,
     --             ["searched"] = false,
     --             ["isBusy"] = false,
-    --             ["text"] = "Doorzoek kleerkast"
+    --             ["text"] = "Search Clothing Cabinet"
     --         },
     --         [4] = {
     --             ["type"] = "cabin",
@@ -6027,7 +6027,7 @@ Config.Houses = {
     --             ["spawned"] = false,
     --             ["searched"] = false,
     --             ["isBusy"] = false,
-    --             ["text"] = "Doorzoek kleerkast"
+    --             ["text"] = "Search Clothing Cabinet"
     --         },
     --         [5] = {
     --             ["type"] = "cabin",
@@ -6038,7 +6038,7 @@ Config.Houses = {
     --             ["spawned"] = false,
     --             ["searched"] = false,
     --             ["isBusy"] = false,
-    --             ["text"] = "Doorzoek kleerkast"
+    --             ["text"] = "Search Clothing Cabinet"
     --         },
     --         [6] = {
     --             ["type"] = "livingroom",
@@ -6161,7 +6161,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6172,7 +6172,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6183,7 +6183,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6194,7 +6194,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6317,7 +6317,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6328,7 +6328,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6339,7 +6339,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6350,7 +6350,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6473,7 +6473,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6484,7 +6484,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6495,7 +6495,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6506,7 +6506,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6629,7 +6629,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6640,7 +6640,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6651,7 +6651,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6662,7 +6662,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6785,7 +6785,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6796,7 +6796,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6807,7 +6807,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6818,7 +6818,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -6941,7 +6941,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -6952,7 +6952,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -6963,7 +6963,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -6974,7 +6974,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7097,7 +7097,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7108,7 +7108,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7119,7 +7119,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7130,7 +7130,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7253,7 +7253,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7264,7 +7264,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7275,7 +7275,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7286,7 +7286,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7409,7 +7409,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7420,7 +7420,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7431,7 +7431,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7442,7 +7442,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7565,7 +7565,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7576,7 +7576,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7587,7 +7587,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7598,7 +7598,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7721,7 +7721,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7732,7 +7732,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7743,7 +7743,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7754,7 +7754,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -7877,7 +7877,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -7888,7 +7888,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -7899,7 +7899,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -7910,7 +7910,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8033,7 +8033,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8044,7 +8044,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8055,7 +8055,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8066,7 +8066,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8189,7 +8189,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8200,7 +8200,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8211,7 +8211,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8222,7 +8222,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8345,7 +8345,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8356,7 +8356,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8367,7 +8367,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8378,7 +8378,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8501,7 +8501,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8512,7 +8512,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8523,7 +8523,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8534,7 +8534,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8657,7 +8657,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8668,7 +8668,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8679,7 +8679,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8690,7 +8690,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8813,7 +8813,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8824,7 +8824,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8835,7 +8835,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -8846,7 +8846,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -8969,7 +8969,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -8980,7 +8980,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -8991,7 +8991,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -9002,7 +9002,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -9125,7 +9125,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -9136,7 +9136,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -9147,7 +9147,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -9158,7 +9158,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
@@ -9281,7 +9281,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [3] = {
                 ["type"] = "cabin",
@@ -9292,7 +9292,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [4] = {
                 ["type"] = "cabin",
@@ -9303,7 +9303,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [5] = {
                 ["type"] = "cabin",
@@ -9314,7 +9314,7 @@ Config.Houses = {
                 ["spawned"] = false,
                 ["searched"] = false,
                 ["isBusy"] = false,
-                ["text"] = "Doorzoek kleerkast"
+                ["text"] = "Search Clothing Cabinet"
             },
             [6] = {
                 ["type"] = "livingroom",
