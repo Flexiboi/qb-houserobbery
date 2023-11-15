@@ -45,3 +45,17 @@ exports('CreateHouseRobbery1', function(spawn)
     return { objects, POIOffsets }
 end)
 ```
+</br>
+
+**Dont forget to add this to 'client > functions' in your qb-core**
+```
+function QBCore.Functions.FaceToPos(x, y, z)
+    local ped = PlayerPedId()
+    local positionToFace = vector3(x,y,z)
+    local pedPos = GetEntityCoords(ped)
+    local x = positionToFace.x - pedPos.x
+    local y = positionToFace.y - pedPos.y
+    local heading = GetHeadingFromVector_2d(x, y)
+    SetEntityHeading(ped, heading)
+end
+```
